@@ -1,23 +1,24 @@
 # Sree Mahalakshmi Engineering
 ### Official Web Platform & Digital Showroom
 
-Welcome to **Sree Mahalakshmi Engineering**, the official interactive web platform for **Sree Mahalakshmi Engineering** located on **MG Road, Vizianagaram, Andhra Pradesh**.
+Welcome to **Sree Mahalakshmi Engineering**, the official interactive web platform for **Sree Mahalakshmi Engineering** located in **Gavara Street, Near Sri Sitarama Temple, Santha Pet, Vizianagaram, Andhra Pradesh**.
 
 🌐 **Official Live Website**: [https://www.sreemahalakshmiengineering.co.in/](https://www.sreemahalakshmiengineering.co.in/)  
 🚀 **Vercel Mirror**: [https://sree-mahalakshmi-engineering-one.vercel.app/](https://sree-mahalakshmi-engineering-one.vercel.app/)  
 🐙 **GitHub Pages Mirror**: [https://katengersweb-pixel.github.io/Sree-Mahalakhsmi-Engneerings/](https://katengersweb-pixel.github.io/Sree-Mahalakhsmi-Engneerings/)  
+📍 **Google Maps Location**: [https://maps.app.goo.gl/peYCTKuXqiJLRgEy8](https://maps.app.goo.gl/peYCTKuXqiJLRgEy8)
 
 ---
 
 ## 🏢 Business Overview
 - **Name**: Sree Mahalakshmi Engineering (*Brand: Sree Mahalakshmi Engineering / Sree Mahalaxmi Engineering*)
 - **Proprietor**: **Jagadish Kumar (Proprietor & Founder)**
-- **Showroom Address**: Door No: 6-8-70, Beside Khazana Jewellery, Pedda Veedhi (MG Road), Vizianagaram – 535001, Andhra Pradesh
+- **Showroom Address**: Door No: 5-2-17, Gavara Street, Near Sri Sitarama Temple, Santha Pet, Vizianagaram – 535001, Andhra Pradesh
 - **Phone / WhatsApp**: `+91 93931 06125`
 - **Email**: `jagadishkumar217@gmail.com`
 - **Dealers In**: Pumps, Motors, Pipes, PVC Pipes, Sanitary Ware, Solar Panels, Submersible Pumps (Solar Panel Installation Available)
 - **Showroom Timings**: Monday – Sunday: 9:00 AM – 9:00 PM (All 7 Days)
-- **Verified Listing**: [Justdial - Sri Mahalakshmi Engineering](https://jsdl.in/DT-99HC39KW)
+- **Google Maps Directions**: [https://maps.app.goo.gl/peYCTKuXqiJLRgEy8](https://maps.app.goo.gl/peYCTKuXqiJLRgEy8)
 
 ---
 
