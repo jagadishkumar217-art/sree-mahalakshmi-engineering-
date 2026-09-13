@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 150" width="340" height="150">
+  <defs>
+    <linearGradient id="lubiBlueGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#008ecf"/>
+      <stop offset="100%" stop-color="#006fa6"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Outer Rounded Rectangle Frame with bottom opening for "Pumps" -->
+  <path d="M 235 124 L 306 124 A 14 14 0 0 0 320 110 L 320 34 A 14 14 0 0 0 306 20 L 34 20 A 14 14 0 0 0 20 34 L 20 110 A 14 14 0 0 0 34 124 L 105 124" 
+        fill="none" 
+        stroke="url(#lubiBlueGrad)" 
+        stroke-width="5.5" 
+        stroke-linecap="round" 
+        stroke-linejoin="round"/>
+
+  <!-- "Lubi" Main Brand Wordmark (Italic, Ultra Bold) -->
+  <g transform="skewX(-13) translate(36, 0)">
+    <text x="110" y="88" 
+          font-family="'Arial Black', 'Montserrat', 'Impact', sans-serif" 
+          font-size="68" 
+          font-weight="900" 
+          font-style="italic" 
+          letter-spacing="-1.5px" 
+          fill="url(#lubiBlueGrad)">Lubı</text>
+    
+    <!-- 3x3 Matrix Dot for the 'i' -->
+    <g transform="translate(196, 30)">
+      <rect x="0" y="0" width="5.5" height="5.5" fill="#008ecf" rx="1"/>
+      <rect x="7.5" y="0" width="5.5" height="5.5" fill="#008ecf" rx="1"/>
+      <rect x="15" y="0" width="5.5" height="5.5" fill="#008ecf" rx="1"/>
+      
+      <rect x="0" y="7.5" width="5.5" height="5.5" fill="#008ecf" rx="1"/>
+      <rect x="7.5" y="7.5" width="5.5" height="5.5" fill="#008ecf" rx="1"/>
+      <rect x="15" y="7.5" width="5.5" height="5.5" fill="#008ecf" rx="1"/>
+      
+      <rect x="0" y="15" width="5.5" height="5.5" fill="#008ecf" rx="1"/>
+      <rect x="7.5" y="15" width="5.5" height="5.5" fill="#008ecf" rx="1"/>
+      <rect x="15" y="15" width="5.5" height="5.5" fill="#008ecf" rx="1"/>
+    </g>
+  </g>
+
+  <!-- "Pumps" Subtitle Wordmark centered at bottom opening -->
+  <text x="170" y="132" 
+        text-anchor="middle" 
+        font-family="'Segoe UI', 'Montserrat', 'Arial', sans-serif" 
+        font-size="28" 
+        font-weight="800" 
+        letter-spacing="0.5px" 
+        fill="url(#lubiBlueGrad)">Pumps</text>
+</svg>

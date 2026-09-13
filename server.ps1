@@ -1,5 +1,8 @@
 $port = 8080
-$folder = "C:\Users\maddi\.gemini\antigravity-ide\scratch\white-volunteers-foundation"
+$folder = $PSScriptRoot
+if ([string]::IsNullOrEmpty($folder)) {
+    $folder = "C:\Users\maddi\.gemini\antigravity-ide\scratch\sree-mahalakshmi-engineering"
+}
 
 $listener = New-Object System.Net.HttpListener
 $listener.Prefixes.Add("http://localhost:$port/")
