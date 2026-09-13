@@ -394,13 +394,13 @@ ul {
   background: #ffffff;
   padding: 3px;
   border: 2px solid var(--accent-saffron);
-  box-shadow: 0 4px 14px rgba(255, 107, 0, 0.35);
-  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  box-shadow: none;
+  transition: transform 0.25s ease;
 }
 
 .nav-logo-sme-link:hover .nav-logo-sme-img {
-  transform: scale(1.08) rotate(3deg);
-  box-shadow: 0 6px 20px rgba(255, 107, 0, 0.55);
+  transform: scale(1.05);
+  box-shadow: none;
 }
 
 .nav-logo-sme-text-wrap {
