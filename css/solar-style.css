@@ -1265,53 +1265,6 @@ ul {
   margin-top: 1.5rem;
 }
 
-.products-carousel-header-controls {
-  display: flex;
-  align-items: center;
-  justify-content: flex-end;
-  margin-bottom: 1.25rem;
-}
-
-.products-nav-arrows {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  background: #ffffff;
-  padding: 6px;
-  border-radius: 9999px;
-  border: 1.5px solid #cbd5e1;
-  box-shadow: 0 4px 14px rgba(15, 23, 42, 0.08);
-}
-
-.products-nav-btn {
-  width: 42px;
-  height: 42px;
-  border-radius: 50%;
-  background: #f8fafc;
-  border: 1px solid #cbd5e1;
-  color: var(--primary-navy);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  cursor: default;
-  transition: all 0.25s ease;
-  outline: none;
-}
-
-.products-nav-btn:hover {
-  background: var(--accent-saffron);
-  border-color: var(--accent-saffron);
-  color: #ffffff;
-  transform: scale(1.08);
-  box-shadow: 0 4px 14px var(--accent-saffron-glow);
-}
-
-.products-nav-btn svg {
-  width: 18px;
-  height: 18px;
-  stroke: currentColor;
-}
-
 .products-scroll-viewport {
   width: 100%;
   overflow-x: auto;
