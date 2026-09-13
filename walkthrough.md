@@ -164,9 +164,30 @@ All official business details extracted from the proprietor visiting card have b
 | **Proprietor Name** | **Jagadish Kumar (Prop)** | ✅ Updated in Team & Contact Cards |
 | **Primary Phone & WhatsApp** | **`+91 93931 06125`** (`tel:+919393106125`, `https://wa.me/919393106125`) | ✅ Updated across all pages, footers & floating buttons |
 | **Official Email** | **`jagadishkumar217@gmail.com`** | ✅ Connected to FormSubmit AJAX & Footer |
-| **Exact Showroom Address** | **`Door No: 6-8-70, Beside Khazana Jewellery, Pedda Veedhi (MG Road), Vizianagaram - 535001, Andhra Pradesh`** | ✅ Updated across meta tags, footers & contact cards |
+| **Exact Showroom Address** | **`Door No: 5-2-17, Gavara Street, Near Sri Sitarama Temple, Santha Pet, Vizianagaram - 535001, Andhra Pradesh`** | ✅ Updated across meta tags, footers & contact cards |
 | **Core Dealership Portfolio** | **Pumps, Pipes, PVC Pipes, Solar Panels, Submersible Pumps** | ✅ Updated |
 | **Technology & Digital Partner** | **KATENGERS Solutions Card with Header, White Pill Logo & Subtitle** | ✅ Framed in a sleek dark glassmorphic card matching the reference design with 'TECHNOLOGY & DIGITAL PARTNER' header, centered white pill logo, and 'Digital Transformation & Web Partner' footer |
+
+---
+
+# Sree Mahalakshmi Engineering — Update Summary & Live Status
+
+## 📍 Showroom Address & Google Maps Update (Completed)
+
+The showroom location and Google Maps integration have been updated across the entire website and documentation to match the new Google Maps location provided:
+
+- **Google Maps Link**: [https://maps.app.goo.gl/peYCTKuXqiJLRgEy8](https://maps.app.goo.gl/peYCTKuXqiJLRgEy8)
+- **Coordinates**: `18.1169679, 83.4033183`
+- **Updated Address**: `Door No: 5-2-17, Gavara Street, Near Sri Sitarama Temple, Santha Pet, Vizianagaram - 535001, Andhra Pradesh`
+- **Updated Files**:
+  1. `index.html` (meta description, interactive Google Map iframe embed, direct "Open in Google Maps & Get Directions" button, showroom location footer text, footer copyright)
+  2. `contact.html` (meta description, showroom address card, interactive Google Map iframe embed, direct "Get Directions on Google Maps" button, footer copyright)
+  3. `about.html` (meta description, page header banner, mission text with exact address, footer copyright)
+  4. `pm-surya-ghar.html` (footer copyright)
+  5. `README.md` (business overview showroom address and Google Maps links)
+- **Git Deployment**:
+  - Pushed to `origin` (`katengersweb-pixel/Sree-Mahalakhsmi-Engneerings.git`) → Auto-deployed to Vercel and GitHub Pages.
+  - Pushed to `jagadish` (`jagadishkumar217-art/sree-mahalakshmi-engineering-.git`).
 
 ---
 
