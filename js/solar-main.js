@@ -294,42 +294,34 @@ const statsData = {
     subtitle: 'Our Leadership & Experience',
     sections: [
       {
-        heading: 'M. Vaddikasulu - Founder',
-        desc: '25+ Years Experience. M. Vaddikasulu is the foundation of Sree Mahalakshmi Engineering. With 25+ years of extensive experience in the engineering and solar industry, he has profound practical knowledge of pumps, pipes, sanitary fixtures, solar products, installation practices, system design, and field-level challenges. His expertise ensures that every project is built on reliable and proven methodologies.'
-      },
-      {
-        heading: 'M. Vikas Teja - Managing Director',
-        desc: '3+ Years Experience. Vikas Teja M. leads the company with a focus on technically appropriate system design. He holds a B.Tech in Electrical Engineering and has successfully overseen the execution of over 450+ solar installations, ranging from residential PM Surya Ghar projects to large-scale agricultural and commercial applications.'
-      },
-      {
-        heading: 'M. Kiran Sai - Technical Manager',
-        desc: '6+ Years Experience. M. Kiran Sai serves as the Technical Manager, ensuring that every installation meets the highest standards. His practical field expertise in electrical works, plumbing engineering, testing, and commissioning plays a crucial role in the successful deployment of projects.'
+        heading: 'Jagadish Kumar - Proprietor & Founder',
+        desc: '18+ Years Experience. Jagadish Kumar is the driving force and Proprietor of Sree Mahalakshmi Engineering. With 18+ years of extensive practical leadership in the water pumping and solar energy sector, he possesses deep expertise across submersible pumps, electric motors, UPVC/CPVC pipeline systems, and residential PM Surya Ghar rooftop solar design. His leadership ensures highest quality standards and prompt customer service across Andhra Pradesh.'
       }
     ]
   },
   co2: {
-    title: '1100+ Kgs of CO2 Reduced',
+    title: '1200+ Tons of CO2 Reduced',
     subtitle: 'Environmental Impact',
     sections: [
       {
-        desc: 'By shifting to renewable solar energy, our projects have collectively reduced over 1100 kilograms of carbon dioxide emissions. This is equivalent to planting thousands of trees and creating a greener, more sustainable future for the next generation.'
+        desc: 'By shifting to clean renewable solar energy and high-efficiency water pumping systems, our 500+ installations have collectively reduced over 1,200 Tons of carbon dioxide emissions. This is equivalent to planting thousands of trees and creating a greener, more sustainable future across Andhra Pradesh.'
       },
       {
-        heading: 'Cleaner Air',
-        desc: 'Every solar panel installed directly contributes to minimizing harmful greenhouse gases in our atmosphere.'
+        heading: 'Cleaner Air & Reduced Grid Load',
+        desc: 'Every rooftop solar plant and efficient submersible pump installation directly cuts fossil fuel emissions and grid power reliance.'
       },
       {
-        heading: 'Sustainable Energy',
-        desc: 'We harness the infinite power of the sun, promoting eco-friendly energy independence.'
+        heading: 'Sustainable Energy Independence',
+        desc: 'We empower households, farmers, and commercial establishments with eco-friendly renewable energy.'
       }
     ]
   },
   customers: {
-    title: '5000+ Happy Customers',
+    title: '2000+ Happy Customers',
     subtitle: 'Building Trust Across AP',
     sections: [
       {
-        desc: 'Over the past 18+ years, Sree Mahalakshmi Engineering has proudly served more than 5,000 satisfied customers across residential, commercial, and agricultural sectors in Vizianagaram, Srikakulam, Visakhapatnam, and across Andhra Pradesh.'
+        desc: 'Over the past 18+ years, Sree Mahalakshmi Engineering has proudly served more than 2,000 satisfied customers across residential, commercial, and agricultural sectors in Vizianagaram, Srikakulam, Visakhapatnam, and across Andhra Pradesh.'
       },
       {
         heading: 'Top-Rated Service',
@@ -342,16 +334,16 @@ const statsData = {
     ]
   },
   projects: {
-    title: '1200+ Projects Completed',
+    title: '500+ Projects Completed',
     subtitle: 'Our Track Record',
     sections: [
       {
-        heading: '150+ Solar Power Projects',
-        desc: 'Residential & Commercial Solar Power Systems, including PM Surya Ghar Muft Bijli Yojana installations. We ensure high efficiency and peak generation.'
+        heading: '200+ Solar Power Installations',
+        desc: 'Residential & Commercial Solar Power Systems, including PM Surya Ghar Muft Bijli Yojana rooftop installations with up to ₹78,000 Central Govt Subsidy.'
       },
       {
-        heading: '1000+ Fencing, Heater & Lights Projects',
-        desc: 'Extensive track record in deploying solar water heaters, agricultural security fencing, and commercial solar street lighting across Andhra Pradesh.'
+        heading: '300+ Agricultural & Commercial Installations',
+        desc: 'Extensive track record in deploying borewell submersible pumps, electric motors, UPVC/CPVC casing pipe networks, and solar lighting across Andhra Pradesh.'
       }
     ]
   }
@@ -530,52 +522,16 @@ function initQuoteButtons() {
    6. Team Profiles Modal
    ========================================================================== */
 const teamData = {
-  'vaddikasulu': {
-    name: 'Jagadish Kumar',
-    role: 'PROPRIETOR & FOUNDER',
-    edu: 'Proprietor & Engineering Lead',
-    img: 'assets/images/product-solar-panels.jpg',
-    about: 'Jagadish Kumar is the Proprietor and Founder of Sree Mahalakshmi Engineering, guiding the enterprise with deep practical expertise in submersible pumps, UPVC casing pipes, and turnkey solar installations. With 18+ years of dedicated service across Vizianagaram and AP, he has empowered over 1,200 farmers, households, and commercial clients.',
-    stats: [
-      { label: 'Years Experience', val: '18+' },
-      { label: 'Primary Contact', val: '+91 93931 06125' },
-      { label: 'Clients Served', val: '1,200+' }
-    ]
-  },
   'jagadish-kumar': {
     name: 'Jagadish Kumar',
     role: 'PROPRIETOR & FOUNDER',
     edu: 'Proprietor & Engineering Lead',
-    img: 'assets/images/product-solar-panels.jpg',
-    about: 'Jagadish Kumar is the Proprietor and Founder of Sree Mahalakshmi Engineering, guiding the enterprise with deep practical expertise in submersible pumps, UPVC casing pipes, and turnkey solar installations. With 18+ years of dedicated service across Vizianagaram and AP, he has empowered over 1,200 farmers, households, and commercial clients.',
+    img: 'assets/images/jagadish-kumar.jpg',
+    about: 'Jagadish Kumar is the Proprietor and Founder of Sree Mahalakshmi Engineering, guiding the enterprise with deep practical expertise in submersible pumps, UPVC casing pipes, and turnkey solar installations. With 18+ years of dedicated service across Vizianagaram and AP, he has empowered over 2,000+ farmers, households, and commercial clients.',
     stats: [
       { label: 'Years Experience', val: '18+' },
       { label: 'Primary Contact', val: '+91 93931 06125' },
-      { label: 'Clients Served', val: '1,200+' }
-    ]
-  },
-  'vikas-teja': {
-    name: 'M. Vikas Teja',
-    role: 'MANAGING DIRECTOR',
-    edu: 'B.Tech (Electrical Engineering)',
-    img: 'assets/images/product-pm-surya-ghar.jpg',
-    about: 'Vikas Teja M. is the Managing Director of Sree Mahalakshmi Engineering. With a strong engineering background in Electrical Engineering, he leads the company with a focus on technically sound system sizing, safe electrical practices, and uncompromising quality in project execution. He has personally overseen the deployment of 450+ residential and commercial projects.',
-    stats: [
-      { label: 'Education', val: 'B.Tech EE' },
-      { label: 'Plants & Systems Executed', val: '450+' },
-      { label: 'System Design', val: 'Advanced' }
-    ]
-  },
-  'kiran-sai': {
-    name: 'M. Kiran Sai',
-    role: 'TECHNICAL MANAGER',
-    edu: 'Technical Lead',
-    img: 'assets/images/solar-hero-bg.jpg',
-    about: 'M. Kiran Sai serves as the Technical Manager, ensuring that every rooftop, pump, piping, and agricultural installation meets the highest benchmarks of electrical safety, structure stability, and operational efficiency. He brings 6+ years of field testing, net-metering grid synchronization, and commissioning leadership.',
-    stats: [
-      { label: 'Years Experience', val: '6+' },
-      { label: 'Field Execution', val: 'Lead' },
-      { label: 'Quality Audit', val: '100%' }
+      { label: 'Clients Served', val: '2,000+' }
     ]
   }
 };
@@ -590,13 +546,13 @@ function initTeamModals() {
   teamCards.forEach(card => {
     card.addEventListener('click', () => {
       const tid = card.getAttribute('data-team-id');
-      const m = teamData[tid];
+      const m = teamData[tid] || teamData['jagadish-kumar'];
       if (!m) return;
 
       modalBody.innerHTML = `
         <div style="text-align: center; margin-bottom: 24px;">
-          <img src="${m.img}" alt="${m.name}" style="width: 130px; height: 130px; border-radius: 50%; object-fit: cover; border: 4px solid var(--accent-lime); margin: 0 auto 16px auto; box-shadow: 0 0 25px rgba(184, 247, 42, 0.3);" />
-          <span style="color: var(--accent-lime); font-size: 13px; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px;">${m.role}</span>
+          <img src="${m.img}" alt="${m.name}" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover; object-position: center 18%; border: 4px solid #ff6b00; margin: 0 auto 16px auto; box-shadow: 0 0 28px rgba(255, 107, 0, 0.35);" />
+          <span style="color: var(--accent-saffron); font-size: 13px; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px;">${m.role}</span>
           <h2 style="font-size: 28px; color: #ffffff; font-weight: 900; margin: 4px 0;">${m.name}</h2>
           <div style="font-size: 14px; color: #94a3b8; font-weight: 600;">${m.edu}</div>
         </div>

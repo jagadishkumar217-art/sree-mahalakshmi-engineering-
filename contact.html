@@ -59,37 +59,42 @@
             <h2 style="font-size: 1.75rem; color: var(--primary-navy); margin-bottom: 0.5rem; font-weight: 800;">Request a Free Quote</h2>
             <p style="color: var(--text-secondary); font-size: 0.98rem; margin-bottom: 2rem;">Fill out the form below and our engineering team in Vizianagaram will get in touch promptly.</p>
 
-            <form id="mainEnquiryForm">
+            <form id="mainEnquiryForm" action="https://formsubmit.co/jagadishkumar217@gmail.com" method="POST">
+              <!-- FormSubmit Configuration -->
+              <input type="hidden" name="_subject" value="New Sree Mahalakshmi Engineering Quote Request">
+              <input type="hidden" name="_template" value="table">
+              <input type="hidden" name="_captcha" value="false">
+
               <div class="form-row">
                 <div class="form-group">
                   <label for="c-name">Full Name *</label>
-                  <input id="c-name" type="text" placeholder="Your Full Name" required>
+                  <input id="c-name" name="name" type="text" placeholder="Your Full Name" required>
                 </div>
                 <div class="form-group">
                   <label for="c-phone">Phone Number *</label>
-                  <input id="c-phone" type="tel" placeholder="+91 93931 06125" required>
+                  <input id="c-phone" name="phone" type="tel" placeholder="+91 93931 06125" required>
                 </div>
               </div>
 
               <div class="form-row">
                 <div class="form-group">
                   <label for="c-email">Email Address</label>
-                  <input id="c-email" type="email" placeholder="yourname@gmail.com">
+                  <input id="c-email" name="email" type="email" placeholder="yourname@gmail.com">
                 </div>
                 <div class="form-group">
                   <label for="c-service">Product / Service Needed *</label>
-                  <select id="c-service" required>
+                  <select id="c-service" name="service" required>
                     <option value="" disabled selected>Select category...</option>
-                    <option value="pumps">C.R.I. Submersible & Borewell Water Pumps</option>
-                    <option value="motors">Single Phase & Three Phase Electric Motors</option>
-                    <option value="pipes">CPVC, UPVC & Agricultural Pipes & Fittings</option>
-                    <option value="sanitary">Sanitary Ware & Ceramic Bathroom Fixtures</option>
+                    <option value="pumps">C.R.I. Submersible &amp; Borewell Water Pumps</option>
+                    <option value="motors">Single Phase &amp; Three Phase Electric Motors</option>
+                    <option value="pipes">CPVC, UPVC &amp; Agricultural Pipes &amp; Fittings</option>
+                    <option value="sanitary">Sanitary Ware &amp; Ceramic Bathroom Fixtures</option>
                     <option value="residential">Residential Solar (PM Surya Ghar Scheme)</option>
                     <option value="commercial">Commercial / Industrial Solar Plant</option>
                     <option value="heater">Solar Water Heater</option>
                     <option value="lights">Solar Street / Garden Lights</option>
                     <option value="fencing">Solar Agricultural Fencing</option>
-                    <option value="cleaning">Solar Panel Cleaning & Maintenance</option>
+                    <option value="cleaning">Solar Panel Cleaning &amp; Maintenance</option>
                   </select>
                 </div>
               </div>
@@ -97,17 +102,17 @@
               <div class="form-row">
                 <div class="form-group">
                   <label for="c-loc">City / Area in AP *</label>
-                  <input id="c-loc" type="text" placeholder="e.g. Vizianagaram, Srikakulam, Vizag" required>
+                  <input id="c-loc" name="location" type="text" placeholder="e.g. Vizianagaram, Srikakulam, Vizag" required>
                 </div>
                 <div class="form-group">
                   <label for="c-bill">Avg Monthly Electricity Bill (₹) / HP Req.</label>
-                  <input id="c-bill" type="number" placeholder="e.g. 2500">
+                  <input id="c-bill" name="bill_or_hp" type="number" placeholder="e.g. 2500">
                 </div>
               </div>
 
               <div class="form-group">
                 <label for="c-msg">Message / Specific Requirements</label>
-                <textarea id="c-msg" rows="4" placeholder="Tell us about your pump HP requirements, motor specifications, pipe diameters, or rooftop solar queries..."></textarea>
+                <textarea id="c-msg" name="message" rows="4" placeholder="Tell us about your pump HP requirements, motor specifications, pipe diameters, or rooftop solar queries..."></textarea>
               </div>
 
               <button type="submit" class="btn btn-lime" style="width: 100%; font-size: 1.05rem; justify-content: center; gap: 8px;">
@@ -209,15 +214,14 @@
 
   <footer class="footer-new">
     <div class="container">
-      <!-- Digital Platform Showcase (Side Card) -->
+      <!-- Technology & Digital Partner (Katengers Solutions) -->
       <div class="footer-digital-platform-wrap">
-        <div class="footer-digital-platform-bar">
-          <div class="digital-platform-info">
-            <span class="digital-platform-title">Digital Platform Powered &amp; Engineered by</span>
-          </div>
-          <a href="https://katengers.in/" target="_blank" rel="noopener noreferrer" class="digital-platform-badge-large" title="KATENGERS Solutions — Digital Platform">
-            <img src="assets/images/katengers-solutions-logo.png" alt="KATENGERS Solutions" class="digital-platform-logo-large">
+        <div class="footer-partner-card">
+          <div class="partner-card-header">TECHNOLOGY &amp; DIGITAL PARTNER</div>
+          <a href="https://katengers.in/" target="_blank" rel="noopener noreferrer" class="partner-logo-pill" title="KATENGERS Solutions — Technology &amp; Digital Partner">
+            <img src="assets/images/katengers-solutions-logo.png" alt="KATENGERS Solutions" class="partner-logo-img">
           </a>
+          <div class="partner-card-footer">Digital Transformation &amp; Web Partner</div>
         </div>
       </div>
 

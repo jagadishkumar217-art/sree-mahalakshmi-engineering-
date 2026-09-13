@@ -58,7 +58,7 @@ All 12 electric motor and monoblock pump products have been generated, extracted
 2. **Streamlined UI & Navigation**:
    - Permanently removed the `About` link, `Company Story`, and mobile `About Us` references across the site navigation menus for a clean, direct product and service experience.
    - Removed category filter pills above the carousels for a cleaner, modern edge-to-edge hardware showcase.
-   - Removed the isolated "REQUEST AUDIT" button from the Navy Statistics strip and realigned the 4 key business metrics (**18+** Years Experience, **1200+** Projects Completed, **5000+** Happy Customers, **1100+** Kgs CO2 Reduced) into a balanced, equal-width horizontal row with frosted-glass card styling.
+   - Removed the isolated "REQUEST AUDIT" button from the Navy Statistics strip and realigned the 4 key business metrics (**18+** Years Experience, **500+** Projects Completed, **2000+** Happy Customers, **1200+** Tons CO2 Reduced) into a balanced, equal-width horizontal row with frosted-glass card styling.
    - Removed all redundant small pill badges (`PRODUCT & ENGINEERING DIVISION`, `PUMPS & ELECTRIC MOTORS DIVISION`, `BOREWELL SUBMERSIBLE PUMP (1)`, `UPVC PIPE (4)`, `SANITARY WARE (2)`, etc.) for a clean, modern aesthetic.
    - Optimized section gaps, header margins, and product grid spacing to eliminate excessive vertical dead space across the website.
 
@@ -166,8 +166,7 @@ All official business details extracted from the proprietor visiting card have b
 | **Official Email** | **`jagadishkumar217@gmail.com`** | ✅ Connected to FormSubmit AJAX & Footer |
 | **Exact Showroom Address** | **`Door No: 6-8-70, Beside Khazana Jewellery, Pedda Veedhi (MG Road), Vizianagaram - 535001, Andhra Pradesh`** | ✅ Updated across meta tags, footers & contact cards |
 | **Core Dealership Portfolio** | **Pumps, Pipes, PVC Pipes, Solar Panels, Submersible Pumps** | ✅ Updated |
-| **Specialized Installation** | **Solar Panel Installation Available** | ✅ Featured prominently |
-| **Digital Platform Badge** | **KATENGERS Solutions Logo Stacked Below Title, Orange Border Removed & Matching Background** | ✅ Seamless footer background match, orange border removed, logo stacked underneath heading text |
+| **Technology & Digital Partner** | **KATENGERS Solutions Card with Header, White Pill Logo & Subtitle** | ✅ Framed in a sleek dark glassmorphic card matching the reference design with 'TECHNOLOGY & DIGITAL PARTNER' header, centered white pill logo, and 'Digital Transformation & Web Partner' footer |
 
 ---
 
