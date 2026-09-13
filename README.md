@@ -3,7 +3,9 @@
 
 Welcome to **Sree Mahalakshmi Engineering**, the official interactive web platform for **Sree Mahalakshmi Engineering** located on **MG Road, Vizianagaram, Andhra Pradesh**.
 
-🌐 **Live Website**: [https://katengersweb-pixel.github.io/Sree-Mahalakhsmi-Engneerings/](https://katengersweb-pixel.github.io/Sree-Mahalakhsmi-Engneerings/)
+🌐 **Official Live Website**: [https://www.sreemahalakshmiengineering.co.in/](https://www.sreemahalakshmiengineering.co.in/)  
+🚀 **Vercel Mirror**: [https://sree-mahalakshmi-engineering-one.vercel.app/](https://sree-mahalakshmi-engineering-one.vercel.app/)  
+🐙 **GitHub Pages Mirror**: [https://katengersweb-pixel.github.io/Sree-Mahalakhsmi-Engneerings/](https://katengersweb-pixel.github.io/Sree-Mahalakhsmi-Engneerings/)  
 
 ---
 
