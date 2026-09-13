@@ -1,8 +1,0 @@
-{
-  "name": "sree-mahalakshmi-engineering",
-  "version": "1.0.0",
-  "description": "Official Web Platform for Sree Mahalakshmi Engineering",
-  "scripts": {
-    "build": "echo 'Static build complete'"
-  }
-}
