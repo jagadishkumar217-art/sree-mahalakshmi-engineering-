@@ -172,22 +172,17 @@ All official business details extracted from the proprietor visiting card have b
 
 # Sree Mahalakshmi Engineering — Update Summary & Live Status
 
-## 📍 Showroom Address & Google Maps Update (Completed)
+## 🚀 Latest Production Deployment (Completed)
 
-The showroom location and Google Maps integration have been updated across the entire website and documentation to match the new Google Maps location provided:
-
-- **Google Maps Link**: [https://maps.app.goo.gl/peYCTKuXqiJLRgEy8](https://maps.app.goo.gl/peYCTKuXqiJLRgEy8)
-- **Coordinates**: `18.1169679, 83.4033183`
-- **Updated Address**: `Door No: 5-2-17, Gavara Street, Near Sri Sitarama Temple, Santha Pet, Vizianagaram - 535001, Andhra Pradesh`
-- **Updated Files**:
-  1. `index.html` (meta description, interactive Google Map iframe embed, direct "Open in Google Maps & Get Directions" button, showroom location footer text, footer copyright)
-  2. `contact.html` (meta description, showroom address card, interactive Google Map iframe embed, direct "Get Directions on Google Maps" button, footer copyright)
-  3. `about.html` (meta description, page header banner, mission text with exact address, footer copyright)
-  4. `pm-surya-ghar.html` (footer copyright)
-  5. `README.md` (business overview showroom address and Google Maps links)
-- **Git Deployment**:
-  - Pushed to `origin` (`katengersweb-pixel/Sree-Mahalakhsmi-Engneerings.git`) → Auto-deployed to Vercel and GitHub Pages.
-  - Pushed to `jagadish` (`jagadishkumar217-art/sree-mahalakshmi-engineering-.git`).
+1. **New Brand Partners Added to Rotating Marquee**:
+   - **Lubi Pumps**: High-definition vector SVG [`brand-lubi-pumps.svg`](file:///C:/Users/maddi/.gemini/antigravity-ide/scratch/sree-mahalakshmi-engineering/assets/images/brand-lubi-pumps.svg).
+   - **Tulsi Pipes** (*Trust of Every Home*): Ultra-HD logo [`brand-tulsi-pipes.png`](file:///C:/Users/maddi/.gemini/antigravity-ide/scratch/sree-mahalakshmi-engineering/assets/images/brand-tulsi-pipes.png).
+   - **Godavari Polymers** (*Good to Great*): Ultra-HD logo [`brand-godavari-polymers.png`](file:///C:/Users/maddi/.gemini/antigravity-ide/scratch/sree-mahalakshmi-engineering/assets/images/brand-godavari-polymers.png).
+2. **New Product Added to Pipes & Plumbing Section**:
+   - **HDPE Agricultural & Industrial Pipes & Fittings**: High-definition asset [`product-hdpe-pipes.jpg`](file:///C:/Users/maddi/.gemini/antigravity-ide/scratch/sree-mahalakshmi-engineering/assets/images/product-hdpe-pipes.jpg) with full specs and instant enquiry button.
+3. **Pushed & Deployed to Production**:
+   - `origin` (`katengersweb-pixel/Sree-Mahalakhsmi-Engneerings.git`) &rarr; Live on Vercel & GitHub Pages.
+   - `jagadish` (`jagadishkumar217-art/sree-mahalakshmi-engineering-.git`) &rarr; Updated on GitHub.
 
 ---
 
