@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.sreemahalakshmiengineering.co.in/sitemap.xml
