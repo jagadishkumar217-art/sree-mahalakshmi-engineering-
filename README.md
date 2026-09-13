@@ -1,17 +1,17 @@
-# SME PROJECT
-### Sri Mahalakshmi Engineering (SME) — Official Web Platform
+# Sree Mahalakshmi Engineering
+### Official Web Platform & Digital Showroom
 
-Welcome to **SME PROJECT**, the official interactive web platform for **Sri Mahalakshmi Engineering (Sree Mahalakshmi Engineering)** located on **MG Road, Vizianagaram, Andhra Pradesh**.
+Welcome to **Sree Mahalakshmi Engineering**, the official interactive web platform for **Sree Mahalakshmi Engineering** located on **MG Road, Vizianagaram, Andhra Pradesh**.
 
 ---
 
 ## 🏢 Business Overview
-- **Name**: Sri Mahalakshmi Engineering (*Brand: Sree Mahalakshmi Engineering / Sree Mahalaxmi Engineering*)
-- **Proprietor**: **Jagadish Kumar (Prop)**
+- **Name**: Sree Mahalakshmi Engineering (*Brand: Sree Mahalakshmi Engineering / Sree Mahalaxmi Engineering*)
+- **Proprietor**: **Jagadish Kumar (Proprietor & Founder)**
 - **Showroom Address**: Door No: 6-8-70, Beside Khazana Jewellery, Pedda Veedhi (MG Road), Vizianagaram – 535001, Andhra Pradesh
 - **Phone / WhatsApp**: `+91 93931 06125`
 - **Email**: `jagadishkumar217@gmail.com`
-- **Dealers In**: Pumps, Pipes, PVC Pipes, Solar Panels, Submersible Pumps (Solar Panel Installation Available)
+- **Dealers In**: Pumps, Motors, Pipes, PVC Pipes, Sanitary Ware, Solar Panels, Submersible Pumps (Solar Panel Installation Available)
 - **Showroom Timings**: Monday – Sunday: 9:00 AM – 9:00 PM (All 7 Days)
 - **Verified Listing**: [Justdial - Sri Mahalakshmi Engineering](https://jsdl.in/DT-99HC39KW)
 
